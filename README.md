@@ -1,4 +1,4 @@
-# Socket Chat for HAPI with Mongo
+# NodeJs-Socket-Chat
 
 This project can be used for chatting applications, using sockets as the channel of communication between two users. The applications is based upon HAPI framework of Node.JS and uses JWT for authentication.
 And is coupled with MongoDB to save the messages. This setup, currently, can only be used for textual communication or sending bookings, sessions etc. for business applications between two stakeholders of the same type.
