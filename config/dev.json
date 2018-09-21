@@ -1,0 +1,20 @@
+{
+  "mongo":{
+    "username":"",
+    "password":"",
+    "db":""
+  },
+  "s3BucketCredentials": {
+    "bucket": "socket_chat",
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "s3URL": "https://s3.eu-central-1.amazonaws.com/socket_chat",
+    "endpoint": "s3-eu-central-1.amazonaws.com",
+    "region": "eu-central-1",
+    "folder": {
+      "profilePic": "profilePic/",
+      "profilePicThumb": "profilePicThumb/"
+    }
+  },
+  "fcmPushKey": ""
+}
